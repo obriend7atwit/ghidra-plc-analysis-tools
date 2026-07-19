@@ -31,25 +31,19 @@ Neither script modifies executable bytes.
 
 ---
 
-## Screenshot placeholders
-
-Replace the placeholder files in [`screenshots/`](screenshots/) with your own images while keeping the filenames.
+## Screenshots
 
 ### Main analysis tool
 
-<!-- Suggested screenshot: script dialog, PLC-AUTO bookmarks, recovered function, and generated report folder. -->
+![Main analysis tool](screenshots/main-analysis-overview.png)
 
-![Main analysis tool placeholder](screenshots/main-analysis-overview.png)
-
-> Suggested caption: `AnalyzePLCProgramPlusV2` recovering functions, ranking source matches, and organizing high-confidence findings.
+> `AnalyzePLCProgramPlusV2` recovering functions, ranking source matches, and organizing high-confidence findings.
 
 ### Quick recovery helper
 
-<!-- Suggested screenshot: completion dialog, Functions window, PLC Recovery bookmarks, and Decompiler output. -->
+![Quick recovery helper](screenshots/quick-recovery-overview.png)
 
-![Quick recovery helper placeholder](screenshots/quick-recovery-overview.png)
-
-> Suggested caption: `RecoverAndDecompilePLC` performing broad in-Ghidra function discovery and decompiler preparation.
+>`RecoverAndDecompilePLC` performing broad in-Ghidra function discovery and decompiler preparation.
 
 ---
 
